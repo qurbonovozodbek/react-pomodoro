@@ -89,7 +89,7 @@ button {
   outline: none;
   cursor: pointer;
   transition: all 0.3s ease-in-out;
-  background: linear-gradient(to bottom, rgb(81, 67, 238), rgb(255, 255, 255));
+  background: linear-gradient(to bottom, rgb(14, 132, 124), rgb(255, 255, 255));
 }
 button:hover {
   transform: translateY(-4px);
